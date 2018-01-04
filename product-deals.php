@@ -3,7 +3,7 @@
 	Plugin Name: Product Deals
 	Description: This plugin registers a Deals post type.
 	Plugin URI: https://github.com/joethomas/product-deals
-	Version: 1.1.1
+	Version: 1.1.2
 	Author: Joe Thomas
 	Author URI: https://github.com/joethomas
 	License: GNU General Public License v3.0
